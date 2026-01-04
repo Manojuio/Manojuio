@@ -6,10 +6,10 @@ Building REST APIs with Node.js, Express, MongoDB and exploring FastAPI.
 ---
 
 ### 🔧 Tech Stack
-- **Languages:** JavaScript, Python , c++ ,java
+- **Languages:** JavaScript, Python , C++ ,Java ,C
 - **Backend:** Node.js, Express.js, FastAPI (learning)
 - **Database:** MongoDB, Mongoose
-- **Tools:** Git, GitHub, Postman, VS Code
+- **Tools:** Git, GitHub, Thunder Client, VS Code
 
 ---
 
