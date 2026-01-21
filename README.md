@@ -33,7 +33,7 @@ Task management API with user-task relationships and JWT authentication.
 ### 📞 Connect with me
 📧 **Email:** undrallamanojkumar@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/manoj-kumar](https://www.linkedin.com/in/manoj-kumar-632b26231)  
-🏆 **LeetCode:** [Solving DSA problems](https://leetcode.com)  
+ 
 
 ---
 
