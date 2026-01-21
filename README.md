@@ -18,12 +18,6 @@ Building REST APIs with Node.js, Express, MongoDB and exploring FastAPI.
 **[BASIC-CRUD](https://github.com/Manojuio/BASIC-CRUD)**  
 REST API with Node.js, Express, MongoDB, and JWT auth. Full CRUD operations with proper routing and middleware.
 
-**[subscription-backend](https://github.com/Manojuio/subscription-backend)**  
-Backend for managing subscriptions, user access control, and payment logic.
-
-**[skillshare-backend](https://github.com/Manojuio/skillshare-backend)**  
-API for a course/skill-sharing platform with user management and course operations.
-
 **[Taskmanager](https://github.com/Manojuio/Taskmanager)**  
 Task management API with user-task relationships and JWT authentication.
 
