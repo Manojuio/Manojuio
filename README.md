@@ -18,7 +18,7 @@ Building REST APIs with Node.js, Express, MongoDB and exploring FastAPI.
 **[BASIC-CRUD](https://github.com/Manojuio/BASIC-CRUD)**  
 REST API with Node.js, Express, MongoDB, and JWT auth. Full CRUD operations with proper routing and middleware.
 
-**[Taskmanager](https://github.com/Manojuio/Taskmanager)**  
+**[TASKMANAGER](https://github.com/Manojuio/Taskmanager)**  
 Task management API with user-task relationships and JWT authentication.
 
 ---
