@@ -38,7 +38,7 @@ Building real-world APIs using **Node.js, Express, MongoDB**, and learning **Fas
 
 ---
 
-## ⭐ Featured Projects (Keep These Front)
+## ⭐ Featured Projects 
 
 ### 1. StudyCircle 
 A focused learning + productivity platform project.  
