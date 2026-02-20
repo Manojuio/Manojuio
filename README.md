@@ -1,4 +1,4 @@
-# Hi, I'm Manoj Kumar 👋
+# Hi, I'm Manoj  👋
 
 Second-year Computer Science student focused on **Backend Engineering**.  
 Building real-world APIs using **Node.js, Express, MongoDB**, and learning **FastAPI + AI integrations (RAG/LLMs)**.
