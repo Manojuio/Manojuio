@@ -38,31 +38,6 @@ Building real-world APIs using **Node.js, Express, MongoDB**, and learning **Fas
 
 ---
 
-## ⭐ Featured Projects 
-
-### 1. StudyCircle 
-A focused learning + productivity platform project.  
-Built to help students manage study tasks, resources, and progress.
-
-🔗 Repo: https://github.com/Manojuio/studycircle
-
----
-
-### 2. Backend CRUD API
-A complete REST API with proper routing, validation, and database integration.
-
-🔗 Repo: https://github.com/Manojuio/basic-CRUD
-
----
-
-### 3. Task Manager API
-Task management backend with authentication and user-task relationships.
-
-🔗 Repo: https://github.com/Manojuio/taskmanager
-
----
-
-
 
 ---
 
