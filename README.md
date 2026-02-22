@@ -36,29 +36,6 @@ Building real-world APIs using **Node.js, Express, MongoDB**, and learning **Fas
 - Postman / Thunder Client  
 - VS Code  
 
----
-
-
----
-
-## 📌 Current Focus
-
-- Building 2–3 production-ready backend projects  
-- Adding testing (Jest + Supertest)  
-- Learning deployment (Render/Vercel/Docker)  
-- Integrating AI features using RAG pipelines  
-
----
-
-## 🎯 Goals (Next 6 Months)
-
-- Become internship-ready backend developer  
-- Master API design + system basics  
-- Build one AI-powered full-stack project  
-- Crack interviews with strong DSA + projects  
-
----
-
 ## 📫 Contact
 
 - Email: **undrallamanojkumar@gmail.com**  
