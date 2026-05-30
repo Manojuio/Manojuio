@@ -1,75 +1,103 @@
-# Manoj 👨‍💻
+# Hi, I'm Manoj 👨‍💻
 
-**Backend Engineer  | Computer Science Student**
+**Backend Engineer | Computer Science Student | AI & System Design Enthusiast**
 
-Second-year CS student passionate about building scalable backend systems and AI-powered applications. Specializing in **Agent Systems**, **RAG Architecture**, and **Distributed Systems Design**. Currently expanding expertise in LLMs, multi-agent workflows, and production-grade system architecture.
-
----
-
-## 🎯 Core Competencies
-
-| **Category** | **Details** |
-|-------------|-----------|
-| **AI & ML** | LLMs Integration, RAG (Retrieval-Augmented Generation), LangChain, LlamaIndex, AI Agents, Prompt Engineering |
-| **Backend** | REST APIs, Real-time Systems, Authentication & Authorization, Scalable Architectures |
-| **System Design** | Database Design, Caching Strategies, WebSocket Communication, Notification Systems |
-| **Languages** | Python • JavaScript • Java • C++ |
-| **Frameworks** | Node.js • Express.js • FastAPI |
-| **Databases** | MongoDB • MYSQL|
-| **DevTools** | Git • Docker • Postman • VS Code |
+Second-year CS student with hands-on experience building **scalable backend systems**, **AI-powered applications**, and **real-time services**. I love solving complex problems through clean code, smart architecture, and continuous learning.
 
 ---
 
-## 🚀 Featured Projects
+## 💼 What I've Built
 
-### **AI Agents Framework**  
-[Repository](https://github.com/Manojuio/aiagents) | Python
-- Multi-agent orchestration and coordination systems
-- Agent communication and task delegation
-- Foundation for autonomous system design
+### 🤖 **AI & RAG Systems** (What I'm Most Passionate About)
 
-### **RAG Systems & LLM Integration**
-- **[GitHub README RAG](https://github.com/Manojuio/GitHub-README-RAG)** - Intelligent document querying with LLMs
-- **[Chat with Code](https://github.com/Manojuio/chat-with-code)** - Context-aware code analysis using RAG
+- **[GitHub README RAG](https://github.com/Manojuio/GitHub-README-RAG)** - Search GitHub repos intelligently using AI
+  - Integrated LLMs (Groq, OpenAI) for semantic search
+  - Built RAG pipeline for context-aware document retrieval
+  - Stack: Python, LangChain, FastAPI
+
+- **[Chat with Code](https://github.com/Manojuio/chat-with-code)** - Ask questions about your codebase
+  - Context-aware code analysis using RAG
+  - Real-time code understanding powered by LLMs
+  - Stack: Python, LlamaIndex
+
 - **[LlamaIndex + Groq RAG](https://github.com/Manojuio/llamaindex-groq-rag)** - Production-ready RAG pipeline
+  - High-speed semantic search and retrieval
+  - Optimized for enterprise use cases
 
-### **Backend Systems & APIs**
+- **[AI Agents Framework](https://github.com/Manojuio/aiagents)** - Multi-agent orchestration system
+  - Agent-to-agent communication patterns
+  - Task delegation and coordination
+  - Foundation for autonomous systems
+
+### 🛠️ **Backend Systems & APIs**
+
 - **[CORTEX](https://github.com/Manojuio/CORTEX)** - Advanced backend infrastructure
-- **[Chat Backend](https://github.com/Manojuio/chatbackend)** - Real-time messaging system
-- **[LeetCode Analyser Backend](https://github.com/Manojuio/leetcodeanalyserbackend)** - Analytics & insights engine
-- **[SkillShare Backend](https://github.com/Manojuio/SKILLSHARE-BACKEND)** - Collaborative platform backend
+  - Scalable REST APIs with clean architecture
+  - Production-grade system design
 
+- **[Chat Backend](https://github.com/Manojuio/chatbackend)** - Real-time messaging service
+  - WebSocket implementation for live updates
+  - Database optimization for concurrent users
+  - Stack: Node.js, Express.js, MongoDB
 
+- **[LeetCode Analyser Backend](https://github.com/Manojuio/leetcodeanalyserbackend)** - Analytics engine
+  - Problem analysis and insights generation
+  - Data processing and visualization backend
+  - Stack: JavaScript, REST APIs
 
-## 📊 Technical Depth
+- **[SkillShare Backend](https://github.com/Manojuio/SKILLSHARE-BACKEND)** - Collaborative platform
+  - User authentication & authorization (JWT)
+  - Concurrent user handling
+  - Scalable architecture for growth
 
-### AI & Machine Learning
-- ✅ Designed and deployed RAG pipelines for semantic search and intelligent retrieval
-- ✅ Developed multi-agent systems with LangChain and LlamaIndex
-- ✅ Integrated LLMs (Groq, OpenAI) with custom backends
-- ✅ Built context-aware applications with prompt engineering
+### 📱 **Full-Stack Projects**
 
-### Backend Engineering  
-- ✅ Architected REST APIs with authentication (JWT, OAuth)
-- ✅ Implemented real-time systems using WebSockets
-- ✅ Designed scalable database schemas with MongoDB
-- ✅ Built event-driven notification systems
+- **[Study Circle](https://github.com/Manojuio/STUDYCIRCLE)** - Learning community platform
+  - Frontend & backend integration
+  - User management system
+  - Stack: JavaScript, Node.js, MongoDB
 
-### System Design
-- ✅ Analyzed and optimized LeetCode solutions with backend insights
-- ✅ Designed collaborative platforms with concurrent user handling
-- ✅ Implemented distributed communication patterns
-
----
-
-## 🎓 Current Focus
-
-- 🏗️ **System Design**: Scaling principles, distributed architectures, microservices
-- 📚 **DSA Mastery**: Consistent practice for technical interviews
+- **[Task Manager](https://github.com/Manojuio/TASKMANAGER)** - Productivity application
+  - CRUD operations with MongoDB
+  - Responsive UI design
 
 ---
 
-## 📬 Get In Touch
+## 🎯 Technical Skills
+
+| **Area** | **Technologies** |
+|----------|-----------------|
+| **Languages** | Python • JavaScript • Java • C++ |
+| **Backend** | Node.js • Express.js • FastAPI • REST APIs |
+| **AI/ML** | LangChain • LlamaIndex • LLM Integration • RAG • Prompt Engineering |
+| **Databases** | MongoDB • MySQL |
+| **Real-time** | WebSockets • Event-driven architecture |
+| **Security** | JWT Authentication • OAuth • Authorization patterns |
+| **DevOps** | Docker • Git • API Design |
+| **Tools** | Postman • VS Code • Jupyter Notebooks |
+
+---
+
+## 🚀 Key Achievements
+
+✅ **Built production-ready RAG pipelines** - Integrated multiple LLMs for intelligent document retrieval  
+✅ **Designed scalable REST APIs** - Authentication, real-time updates, and concurrent handling  
+✅ **Implemented real-time systems** - WebSocket-based messaging with database optimization  
+✅ **Created multi-agent systems** - Orchestration patterns for autonomous AI applications  
+✅ **Optimized backend performance** - Caching strategies and database design for scale  
+
+---
+
+## 📚 Currently Learning
+
+- System Design & Scalability patterns
+- Microservices architecture
+- Advanced DSA for technical interviews
+- LLM fine-tuning and custom model training
+
+---
+
+## 🔗 Let's Connect!
 
 | **Platform** | **Link** |
 |----------|------|
@@ -78,4 +106,4 @@ Second-year CS student passionate about building scalable backend systems and AI
 
 ---
 
-**Open to collaborations, internship opportunities, and discussions on AI systems, backend architecture, and system design!**
+**🎯 Open to internships, collaborations, and discussions on backend engineering, AI systems, and system design!**
