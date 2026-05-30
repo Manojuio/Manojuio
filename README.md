@@ -91,9 +91,9 @@ Second-year CS student with hands-on experience building **scalable backend syst
 ## 📚 Currently Learning
 
 - System Design & Scalability patterns
-- Microservices architecture
-- Advanced DSA for technical interviews
-- LLM fine-tuning and custom model training
+- AI Agents
+- DSA for technical interviews
+
 
 ---
 
