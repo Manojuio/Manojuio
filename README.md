@@ -20,10 +20,6 @@ Second-year CS student with hands-on experience building **scalable backend syst
   - Real-time code understanding powered by LLMs
   - Stack: Python, LlamaIndex
 
-- **[LlamaIndex + Groq RAG](https://github.com/Manojuio/llamaindex-groq-rag)** - Production-ready RAG pipeline
-  - High-speed semantic search and retrieval
-  - Optimized for enterprise use cases
-
 - **[AI Agents Framework](https://github.com/Manojuio/aiagents)** - Multi-agent orchestration system
   - Agent-to-agent communication patterns
   - Task delegation and coordination
